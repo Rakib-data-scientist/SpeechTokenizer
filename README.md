@@ -1,6 +1,6 @@
 # SpeechTokenizer
 
-Inspired by : https://arxiv.org/pdf/2308.16692v1.pdf
+
 
 1.
 ![Introducing-SpeechTokenizer_page-0001](https://github.com/Rakib-data-scientist/SpeechTokenizer/assets/137823730/a922ccbe-d59e-4c08-b6f2-591ca8323073)
@@ -24,3 +24,5 @@ Inspired by : https://arxiv.org/pdf/2308.16692v1.pdf
 ![Introducing-SpeechTokenizer_page-0010](https://github.com/Rakib-data-scientist/SpeechTokenizer/assets/137823730/9b3104f5-c520-482f-ba0d-c6a69d8bde0c)
 11.
 ![Introducing-SpeechTokenizer_page-0011](https://github.com/Rakib-data-scientist/SpeechTokenizer/assets/137823730/003baa23-c923-4be0-a91e-c17c01916402)
+
+* Inspired by : https://arxiv.org/pdf/2308.16692v1.pdf
